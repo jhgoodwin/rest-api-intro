@@ -1,0 +1,15 @@
+{
+  "name": "rest-api-intro",
+  "version": "1.0.0",
+  "description": "Introduction to REST API",
+  "main": "index.js",
+  "repository": "https://github.com/jhgoodwin/rest-api-intro",
+  "author": "John Goodwin <john@jjgoodwin.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/json-server --watch db.json"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Antons",
+      "last_name": "Fayerbrother",
+      "email": "afayerbrother0@engadget.com",
+      "gender": "Male",
+      "department": "Accounting"
+    },
+    {
+      "id": 2,
+      "first_name": "Gerrard",
+      "last_name": "Marsy",
+      "email": "gmarsy1@techcrunch.com",
+      "gender": "Male",
+      "department": "Legal"
+    },
+    {
+      "id": 3,
+      "first_name": "Tibold",
+      "last_name": "Farrent",
+      "email": "tfarrent2@unicef.org",
+      "gender": "Male",
+      "department": "Engineering"
+    },
+    {
+      "id": 4,
+      "first_name": "Base",
+      "last_name": "Andrysek",
+      "email": "bandrysek3@narod.ru",
+      "gender": "Male",
+      "department": "Marketing"
+    },
+    {
+      "id": 5,
+      "first_name": "Catherina",
+      "last_name": "Northall",
+      "email": "cnorthall4@tripadvisor.com",
+      "gender": "Female",
+      "department": "Engineering"
+    },
+    {
+      "id": 6,
+      "first_name": "Missy",
+      "last_name": "Ryall",
+      "email": "mryall5@facebook.com",
+      "gender": "Female",
+      "department": "Human Resources"
+    },
+    {
+      "id": 7,
+      "first_name": "Dougy",
+      "last_name": "Kobieriecki",
+      "email": "dkobieriecki6@illinois.edu",
+      "gender": "Male",
+      "department": "Engineering"
+    },
+    {
+      "id": 8,
+      "first_name": "Salim",
+      "last_name": "Nevet",
+      "email": "snevet7@netscape.com",
+      "gender": "Male",
+      "department": "Business Development"
+    },
+    {
+      "id": 9,
+      "first_name": "Janella",
+      "last_name": "Buesden",
+      "email": "jbuesden8@senate.gov",
+      "gender": "Female",
+      "department": "Services"
+    },
+    {
+      "id": 10,
+      "first_name": "Robbert",
+      "last_name": "Pinsent",
+      "email": "rpinsent9@boston.com",
+      "gender": "Male",
+      "department": "Services"
+    }
+  ]
+}
