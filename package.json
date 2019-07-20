@@ -6,7 +6,8 @@
   "author": "John Goodwin <john@jjgoodwin.com>",
   "license": "MIT",
   "dependencies": {
-    "json-server": "^0.12.1"
+    "json-server": "^0.12.1",
+    "mem": "^4.0.0"
   },
   "scripts": {
     "start": "./node_modules/.bin/json-server --watch db.json"
